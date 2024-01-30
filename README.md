@@ -1,4 +1,5 @@
 # `pkg`
+[![Maintainability](https://api.codeclimate.com/v1/badges/2ec596b9250233491a69/maintainability)](https://codeclimate.com/github/BillotP/pkg/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/2ec596b9250233491a69/test_coverage)](https://codeclimate.com/github/BillotP/pkg/test_coverage)
 
 This repository holds commonly used packages that provide various self-contained utilities and business logic helpers.
 
